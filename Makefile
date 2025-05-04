@@ -21,7 +21,7 @@ $(TARGET): $(OBJS)
 %.o: %.cpp $(HEADERS)
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
-run: $(TARGET)
+Main: $(TARGET)
 	./$(TARGET)
 
 # ---------- טסטים  ----------

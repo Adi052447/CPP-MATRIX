@@ -49,7 +49,7 @@
 # Build demo program
 make            # (same as make all)
 # Run demo
-make run
+make Main
 # Run unit tests
 make test
 # Memory-check demo + tests (requires Valgrind)
