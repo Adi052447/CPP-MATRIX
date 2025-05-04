@@ -1,3 +1,5 @@
+//adi.gamzu@msmail.ariel.ac.il
+
 #ifndef SQUAREMAT_HPP
 #define SQUAREMAT_HPP
 

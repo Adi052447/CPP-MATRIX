@@ -1,3 +1,5 @@
+//adi.gamzu@msmail.ariel.ac.il
+
 #include "SquareMat.hpp"
 #include <algorithm>   // std::copy, std::fill
 #include <numeric>     // std::accumulate
